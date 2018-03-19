@@ -1,0 +1,1 @@
+<div id="footer">源码购买 ：<a href="http://953ka.com/akxTs.html" target="_blank">点击购买爱客影院v3.5开源版</a></div>
